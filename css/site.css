@@ -15,7 +15,7 @@ h1, h2 {
     color: #FFF;
     padding: 25px;
     border-bottom: 10px solid black;
-    font-size: 60px;
+    font-size: 300%;
     text-transform: uppercase;
 }
 
