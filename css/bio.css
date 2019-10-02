@@ -7,15 +7,12 @@
     box-sizing: border-box;
 }
 
-.fiat {
-    float: right;
-}
-
 .petrobras {
     float: left;
+    margin-left: 0;
 }
 
-cite {
-    font-style: italic;
+.fiat {
     float: right;
+    margin-right: 0;
 }
